@@ -16,7 +16,7 @@ All other numbers print itself
 
 The basic structure and components of a Java program.
 How to implement 'for' loops to repeat actions.
-How to implement conditional statements `if`, `else` to execute code based on specific conditions.
+How to implement conditional statements 'if', 'else' to execute code based on specific conditions.
 
 
 

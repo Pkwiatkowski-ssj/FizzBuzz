@@ -89,3 +89,9 @@ nb-configuration.xml
 ##############################
 *.log
 ALL_OF_MY_PASSWORDS.txt
+
+
+##############################
+##I DONT EVEN KNOW
+##############################
+FizzBuzz/
